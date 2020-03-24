@@ -1,0 +1,2 @@
+rootProject.name='Level3-User-Profile'
+include ':app'
